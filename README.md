@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jay</h1>
 <h3 align="center">Passionate Software Developer 🤓</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: jaykoladia@gmail.com</h3>
 <p align="left">
 <a href="https://instagram.com/jayypatel._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jayypatel._" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jaykoladia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jaykoladia" height="30" width="40" /></a>
