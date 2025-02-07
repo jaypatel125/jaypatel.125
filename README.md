@@ -8,7 +8,6 @@ Software Developer 👨🏻‍💻 | Open Source Enthusiast 🌐 | Life-long Lea
 <h3>
   🌱 I thrive on diving into code, bringing ideas to life, and solving complex problems along the way. With a solid foundation in React for the frontend and Java and C# for the backend, I enjoy exploring the intersection of technology and creativity. 
 </h3>
-<h3 align="left">📧 Connect with me: <a href="mailto:jaykoladia@gmail.com">jaykoladia@gmail.com</a></h3>
 <h3 align="left">💼 Portfolio: <a href="https://thisisjaypatel.vercel.app/">thisisjaypatel.vercel.app</a></h3>
 
 <h3 align="left">💻 Languages and 🔧 Tools:</h3>
